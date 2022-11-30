@@ -2,7 +2,7 @@
 CIP: 1
 Title: Purpose and Guidelines
 Discussions: https://www.comp.xyz/t/compound-improvement-proposals-cip/
-Status: Living (implemented by [Snapshot vote on 11-23-2022: https://snapshot.org/#/comp-vote.eth/proposal/0xba069fb02f137f75afa954c988994cda0fb6c9eaa1ecc4454325c7948a8cddbd )
+Status: Living
 Type: Meta Process
 Author: Michael Lewellen
 Contributors: @allthecolors, @dakeshi, @adam_b_compound, @harsha, @boardroom, @kevin

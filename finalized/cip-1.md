@@ -1,5 +1,3 @@
-# CIP-1: Purpose and Guidelines
-
 ---
 cip: 1
 title: Purpose and Guidelines

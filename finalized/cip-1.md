@@ -4,7 +4,7 @@ Title: Purpose and Guidelines
 Discussions: https://www.comp.xyz/t/compound-improvement-proposals-cip/
 Status: Living
 Type: Meta Process
-Author: Michael Lewellen
+Author: Michael Lewellen (@cylon)
 Contributors: allthecolors (@allthecolors), dakeshi (@dakeshi), Adam B. (@adam_b_compound), Sriharsha Karamchati (@harsha), Duncan Dobbelmann (@boardroom), Kevin Cheng (@kevin)
 Created: 2022-10-20
 ---

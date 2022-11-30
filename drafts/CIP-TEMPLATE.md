@@ -1,12 +1,12 @@
 ---
-cip: <to be assigned>
-title: <title is a few words, not a complete sentence>
-discussions-to: <URL to Github Issue and/or forum discussion>
-status: Draft
-type: <Meta, Protocol or Tooling & Support>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), comp.xyz username and/or name and email (in angle brackets)> 
-contributors: <a comma separated list of contributors to the CIP that make suggestions or editions (formatted the same as the author list)>
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+CIP: <to be assigned>
+Title: <title is a few words, not a complete sentence>
+Discussions: <URL to Github Issue and/or forum discussion>
+Status: Draft
+Type: <Meta, Protocol or Tooling & Support>
+Author(s): <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), comp.xyz username and/or name and email (in angle brackets)> 
+Contributor(s): <a comma separated list of contributors to the CIP that make suggestions or editions (formatted the same as the author list)>
+Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 ---
 
 _This is the suggested template for new CIPs._

@@ -21,7 +21,7 @@ The purpose of this proposal is to bring clarity to the process of contributing 
 
 A 5-phase process from idea to adoption to iteratively refine proposals.
 
-![alt text](../assets/cip-2/5-phases.png)
+![alt text](../assets/cip-protocol-contribution-policy/5-phases.png)
 
 Each phase may have multiple iterations of code refinements and opportunities to incorporate feedback. Efforts are organized into these phases to prepare contributions for review by each audience. Communication is encouraged throughout the phases.
 
